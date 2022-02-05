@@ -1,5 +1,14 @@
 # vue-router
 
+## Vue POC router
+
+some features used:
+
+* router
+* router view
+* router links
+* json-server
+
 ## Project setup
 ```
 npm install
